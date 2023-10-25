@@ -1,0 +1,2 @@
+requirements yaratish - pip freeze -> requirements.txt
+keyin yuklab olish - pip install -r requirements.txt
